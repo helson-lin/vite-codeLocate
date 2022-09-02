@@ -1,0 +1,16 @@
+{
+  "name": "codeLocate",
+  "version": "1.0.0",
+  "description": "1. git clone repo or download zip archive 2. open chrome and load the decompressed extension 3. run a vite/vue project with installed vite-plugin-code-locate 4. right click menu select \"open/close code locate\" 5. click the project running page's dom, it's will auto open the dom related code in vscode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chrome",
+    "extension",
+    "vscode"
+  ],
+  "author": "helsonlin",
+  "license": "MIT"
+}

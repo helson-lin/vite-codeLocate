@@ -1,0 +1,6 @@
+{
+	"pluginDesc": {"message": "front end dev tools"},
+	"vscodebug": {"message": "open/close code locate"},
+	"openedDebug": {"message": "opned code locate"},
+	"closedDebug": {"message": "closed code locate"}
+}

@@ -1,0 +1,6 @@
+{
+	"pluginDesc": {"message": "前端开发工具"},
+	"vscodebug": {"message": "开启/关闭代码定位"},
+	"openedDebug": {"message": "开启了代码调试"},
+	"closedDebug": {"message": "关闭了代码调试"}
+}
